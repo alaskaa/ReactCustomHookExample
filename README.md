@@ -1,2 +1,0 @@
-# ReactCustomHookExample
-Created with CodeSandbox
